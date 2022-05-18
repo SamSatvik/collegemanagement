@@ -1,6 +1,4 @@
-# CollegeManagement
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Satvik%20Kumar-red)
----
+# CollegeManagement---
 
 
 ## Functions
